@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "692622435593",
+    "project_id": "pjsgyres",
+    "storage_bucket": "pjsgyres.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692622435593:android:a8dc7c5b0c5a3030ea9fd8",
+        "android_client_info": {
+          "package_name": "com.example.pjsgyres"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcr2TaRsMm5Ek5tvm8yUIAdoQo3UXK9Jw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692622435593:android:820d5f0ebe6ec5bcea9fd8",
+        "android_client_info": {
+          "package_name": "com.pjsgyres.pjsgyres"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcr2TaRsMm5Ek5tvm8yUIAdoQo3UXK9Jw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
